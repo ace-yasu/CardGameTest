@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2019-08-17T16:11:24.755-07:00
+  initializedAtString: 2019-08-17T16:07:49.490-07:00
+  localBranches:
+  - name: master
+    tracking: origin/master
+  - name: newOne
+    tracking: origin/newOne
+  - name: theNewOne
+    tracking: origin/theNewOne
+  remoteBranches:
+  - name: origin/master
+    tracking: '[None]'
+  - name: origin/newOne
+    tracking: '[None]'
+  - name: origin/theNewOne
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/ace-yasu/CardGameTest.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - master
+    - newOne
+    - theNewOne
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/ace-yasu/CardGameTest.git
+      trackingBranch: master
+    - name: newOne
+      remote:
+        name: origin
+        url: https://github.com/ace-yasu/CardGameTest.git
+      trackingBranch: newOne
+    - name: theNewOne
+      remote:
+        name: origin
+        url: https://github.com/ace-yasu/CardGameTest.git
+      trackingBranch: theNewOne
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - master
+      - newOne
+      - theNewOne
+    subKeyValues:
+    - Values:
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/ace-yasu/CardGameTest.git
+        trackingBranch: 
+      - name: newOne
+        remote:
+          name: origin
+          url: https://github.com/ace-yasu/CardGameTest.git
+        trackingBranch: 
+      - name: theNewOne
+        remote:
+          name: origin
+          url: https://github.com/ace-yasu/CardGameTest.git
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/ace-yasu/CardGameTest.git

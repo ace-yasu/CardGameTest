@@ -1,24 +1,31 @@
 ﻿<Properties StartupConfiguration="{E637BB59-5D2A-6664-FB79-C76AF9BF3DD4}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameMaster.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneChanger.cs">
     <Files>
-      <File FileName="Assets/CardData.cs" Line="18" Column="1" />
-      <File FileName="Assets/Card.cs" Line="1" Column="1" />
-      <File FileName="Assets/Field.cs" Line="1" Column="1" />
-      <File FileName="Assets/GameMaster.cs" Line="92" Column="1" />
-      <File FileName="Assets/Yomifuda.cs" />
-      <File FileName="Assets/tap_button.cs" Line="26" Column="1" />
+      <File FileName="Assets/Scripts/Card.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CardData.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/Field.cs" />
+      <File FileName="Assets/Scripts/GameMaster.cs" />
+      <File FileName="Assets/Scripts/tap_button.cs" />
+      <File FileName="Assets/Scripts/Yomifuda.cs" />
+      <File FileName="Assets/Scripts/SceneChanger.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CardGameTest2" expanded="True" selected="True" />
+          <Node name="CardGameTest2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="SceneChanger.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e1513082-1c51-4123-85ea-3804b04a7b0f" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a7d41ff4-36c8-46c9-9bb2-298fdf3e092b" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
