@@ -1,0 +1,252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2019-08-24T13:28:21.631-07:00
+  initializedAtString: 2019-08-24T13:28:21.631-07:00
+  entries:
+  - path: .vs/CardGameTest2/xs/sqlite3/storage.ide
+    fullPath: /Users/yasuhiro/CardGameTest2/.vs/CardGameTest2/xs/sqlite3/storage.ide
+    projectPath: .vs/CardGameTest2/xs/sqlite3/storage.ide
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs/CardGameTest2/xs/sqlite3/storage.ide-shm
+    fullPath: /Users/yasuhiro/CardGameTest2/.vs/CardGameTest2/xs/sqlite3/storage.ide-shm
+    projectPath: .vs/CardGameTest2/xs/sqlite3/storage.ide-shm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: .vs/CardGameTest2/xs/sqlite3/storage.ide-wal
+    fullPath: /Users/yasuhiro/CardGameTest2/.vs/CardGameTest2/xs/sqlite3/storage.ide-wal
+    projectPath: .vs/CardGameTest2/xs/sqlite3/storage.ide-wal
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/assetDatabase3
+    fullPath: /Users/yasuhiro/CardGameTest2/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/CurrentLayout-default.dwlt
+    fullPath: /Users/yasuhiro/CardGameTest2/Library/CurrentLayout-default.dwlt
+    projectPath: Library/CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorInstance.json
+    fullPath: /Users/yasuhiro/CardGameTest2/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/yasuhiro/CardGameTest2/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/yasuhiro/CardGameTest2/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/yasuhiro/CardGameTest2/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/yasuhiro/CardGameTest2/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/yasuhiro/CardGameTest2/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/yasuhiro/CardGameTest2/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/LastSceneManagerSetup.txt
+    fullPath: /Users/yasuhiro/CardGameTest2/Library/LastSceneManagerSetup.txt
+    projectPath: Library/LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/yasuhiro/CardGameTest2/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Users/yasuhiro/CardGameTest2/Library/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Users/yasuhiro/CardGameTest2/Library/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler3.log
+    fullPath: /Users/yasuhiro/CardGameTest2/Library/shadercompiler-UnityShaderCompiler3.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler4.log
+    fullPath: /Users/yasuhiro/CardGameTest2/Library/shadercompiler-UnityShaderCompiler4.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/Hierarchy/c5342f-mainStage.json
+    fullPath: /Users/yasuhiro/CardGameTest2/Library/StateCache/Hierarchy/c5342f-mainStage.json
+    projectPath: Library/StateCache/Hierarchy/c5342f-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/ProcessJobs/ab30c7bcae888f8a20ac9ec5bfbfa3a6.bakert
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/ProcessJobs/ab30c7bcae888f8a20ac9ec5bfbfa3a6.bakert
+    projectPath: Temp/ProcessJobs/ab30c7bcae888f8a20ac9ec5bfbfa3a6.bakert
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0ee983940431c4ba6a616d50ef44f0ac
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/UnityTempFile-0ee983940431c4ba6a616d50ef44f0ac
+    projectPath: Temp/UnityTempFile-0ee983940431c4ba6a616d50ef44f0ac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0ffb5aac903dc4850beb41e729bc4d6c
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/UnityTempFile-0ffb5aac903dc4850beb41e729bc4d6c
+    projectPath: Temp/UnityTempFile-0ffb5aac903dc4850beb41e729bc4d6c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-1147747f1b2d1442d91ce0bd6f0a9dd6
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/UnityTempFile-1147747f1b2d1442d91ce0bd6f0a9dd6
+    projectPath: Temp/UnityTempFile-1147747f1b2d1442d91ce0bd6f0a9dd6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-36d108183dcbf4826a94fdc04b63bb06
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/UnityTempFile-36d108183dcbf4826a94fdc04b63bb06
+    projectPath: Temp/UnityTempFile-36d108183dcbf4826a94fdc04b63bb06
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-386f248de5174475b904fb3e2ca22aea
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/UnityTempFile-386f248de5174475b904fb3e2ca22aea
+    projectPath: Temp/UnityTempFile-386f248de5174475b904fb3e2ca22aea
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-3db8ebfdfe39543199db97ce3bfe5b16
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/UnityTempFile-3db8ebfdfe39543199db97ce3bfe5b16
+    projectPath: Temp/UnityTempFile-3db8ebfdfe39543199db97ce3bfe5b16
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-416a1fb776d2c4207839b7f99c85ddd0
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/UnityTempFile-416a1fb776d2c4207839b7f99c85ddd0
+    projectPath: Temp/UnityTempFile-416a1fb776d2c4207839b7f99c85ddd0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-4fabe2fbc8a0c4e8b90d034040b36793
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/UnityTempFile-4fabe2fbc8a0c4e8b90d034040b36793
+    projectPath: Temp/UnityTempFile-4fabe2fbc8a0c4e8b90d034040b36793
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-63d389dc48da04dd9a4cb39e29125361
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/UnityTempFile-63d389dc48da04dd9a4cb39e29125361
+    projectPath: Temp/UnityTempFile-63d389dc48da04dd9a4cb39e29125361
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-737e37f25cef946e2a763bda845a0336
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/UnityTempFile-737e37f25cef946e2a763bda845a0336
+    projectPath: Temp/UnityTempFile-737e37f25cef946e2a763bda845a0336
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-785e9d3908ca64dd9b1550ad4b7d592d
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/UnityTempFile-785e9d3908ca64dd9b1550ad4b7d592d
+    projectPath: Temp/UnityTempFile-785e9d3908ca64dd9b1550ad4b7d592d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-8905719e6fe3246709eee93059a298c2
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/UnityTempFile-8905719e6fe3246709eee93059a298c2
+    projectPath: Temp/UnityTempFile-8905719e6fe3246709eee93059a298c2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-927bfbb8317404fe19213a9954ee041d
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/UnityTempFile-927bfbb8317404fe19213a9954ee041d
+    projectPath: Temp/UnityTempFile-927bfbb8317404fe19213a9954ee041d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-98ce83dbd0b2c48c8a90d40f5d0c51ca
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/UnityTempFile-98ce83dbd0b2c48c8a90d40f5d0c51ca
+    projectPath: Temp/UnityTempFile-98ce83dbd0b2c48c8a90d40f5d0c51ca
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-9e5b8656f0b5043e88981e954067775c
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/UnityTempFile-9e5b8656f0b5043e88981e954067775c
+    projectPath: Temp/UnityTempFile-9e5b8656f0b5043e88981e954067775c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-bea4297ccdd374404bec6c29f530fd29
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/UnityTempFile-bea4297ccdd374404bec6c29f530fd29
+    projectPath: Temp/UnityTempFile-bea4297ccdd374404bec6c29f530fd29
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-d483838d5305e4d6eb1f7888f73b4be5
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/UnityTempFile-d483838d5305e4d6eb1f7888f73b4be5
+    projectPath: Temp/UnityTempFile-d483838d5305e4d6eb1f7888f73b4be5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-eba6e1963a7314c5e91b5a6c1ff8a786
+    fullPath: /Users/yasuhiro/CardGameTest2/Temp/UnityTempFile-eba6e1963a7314c5e91b5a6c1ff8a786
+    projectPath: Temp/UnityTempFile-eba6e1963a7314c5e91b5a6c1ff8a786
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
